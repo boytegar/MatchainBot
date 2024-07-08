@@ -10,3 +10,5 @@ start.py
 __pycache__/bot.cpython-311.pyc
 __pycache__/headers.cpython-311.pyc
 __pycache__/queries.cpython-311.pyc
+query_id.txt.bak
+useragent.txt
